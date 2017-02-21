@@ -30,10 +30,10 @@ The call offers support for two grant types:
 
 ### Application process and timeline
 
-A panel of international experts with experience in the region will evaluate applications through a competitive two-stage process.
-+ Applicants must submit **initial concept notes** using the [provided template**](/raw/BID-Concept-Note-Template-Africa-2017.docx) by 9 April 2017.
+A panel of international experts with experience in the region will [evaluate applications](../evaluation-process) through a competitive two-stage process. 
++ Applicants must submit **initial concept notes** using the [provided template](/raw/BID-Concept-Note-Template-Africa-2017.docx) by 9 April 2017.
 + Based on the panels’ recommendations, GBIF will invite a select group of applicants to prepare **full proposals**, expected to be due in July 2017.
-+ Following the panel’s final review and selection, funded projects will start in October 2017. GBIF expects to announce these projects publicly by November 2017.
++ Following the panel’s final review and selection, **funded projects** will start in October 2017. GBIF expects to announce these projects publicly by November 2017.
 
 ____
 

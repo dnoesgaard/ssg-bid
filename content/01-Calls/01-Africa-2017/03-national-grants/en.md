@@ -15,7 +15,10 @@ _**Reminder for existing BID grant recipients**: The maximum amount that any sin
 
 National grants under the BID programme seek to establish or strengthen national biodiversity information facilities and to increase the biodiversity data available about the country to respond to national priorities.
 
-These guidelines are available in English, Portuguese and French; the English version is the authoritative version. They accompany the BID call for proposals document and concept note template. General questions may be sent to [BID@gbif.org](mailto:BID@gbif.org).
+These guidelines are available in English, Portuguese and French; the English version is the authoritative version. They accompany the BID [call for proposals](http://www.gbif.org/newsroom/news/bid-africa-call-for-proposals-2017) and [concept note template](/raw/BID-Concept-Note-Template-Africa-2017.docx). General questions may be sent to [BID@gbif.org](mailto:BID@gbif.org).
+
+<!-- toc -->
+<!-- tocstop -->
 
 -----------
 
@@ -25,7 +28,7 @@ Many different stakeholder groups in a given country or organization may be invo
 
 Within the GBIF network, the group that coordinates national activities with the goal of ensuring effective cooperation and combination of resources and information is a ‘biodiversity information facility’. Using tools and techniques developed and applied by formal GBIF members, these groups sustain key relationships and common solutions for managing and accessing data.
 
-GBIF exists to support its member states and organizations—or, more formally, its Participants—to establish these networks. By signing the GBIF [Memorandum of Understanding](), GBIF Participants commit to set up a Participant node that coordinates a biodiversity information facility. More information on biodiversity information facilities is available in the guide, [*Establishing an Effective GBIF Participant Node*]() (which also available in [French](), [Portuguese]() and [Spanish]().
+GBIF exists to support its member states and organizations—or, more formally, its Participants—to establish these networks. By signing the GBIF [Memorandum of Understanding](http://www.gbif.org/resource/80661), GBIF Participants commit to set up a Participant node that coordinates a biodiversity information facility. More information on biodiversity information facilities is available in the guide, [*Establishing an Effective GBIF Participant Node*](http://www.gbif.org/resource/80925) (which also available in [French](http://www.gbif.org/resource/82147), [Portuguese](http://www.gbif.org/resource/82231) and [Spanish](http://www.gbif.org/resource/82186).
 
 -----------
 
@@ -33,12 +36,12 @@ GBIF exists to support its member states and organizations—or, more formally, 
 
 The deadline for submitting initial concept notes from Sub Saharan Africa is **9 April 2017**.
 
-+ Applications must be submitted using the appropriate concept note template to [BID@gbif.org](mailto:BID@gbif.org) **by 9 April 2017**, midnight CET / 2300 UTC/GMT.
++ Applications must be submitted using the [provided concept note template](/raw/BID-Concept-Note-Template-Africa-2017.docx) to [BID@gbif.org](mailto:BID@gbif.org) **by 9 April 2017**, midnight CET / 2300 UTC/GMT.
 + Confirmed project partners must be copied when submitting the application. 
 + As appropriate, include a statement of endorsement from a GBIF representative in submissions as an email attachment. 
 + **Applications must be submitted in English and by using the appropriate template**. If you need help with this requirement, please contact [BID@gbif.org](mailto:BID@gbif.org) as early as possible and before **27 March 2017**.
 
-Please note that the evaluation panel will not be reviewing late or incomplete applications.
+Please note that the evaluation panel will not review late or incomplete applications.
 
 -----------
 
@@ -57,7 +60,7 @@ The overall BID programme targets two key outcomes:
 
 ## Key documents
 
-+ [Concept note template]()
++ [Concept note template](/raw/BID-Concept-Note-Template-Africa-2017.docx)
 
 -----------
 
@@ -72,9 +75,9 @@ The selection panel will base its assessment of applications on the following cr
 5. Quantity, quality and relevance of the biodiversity data proposed for mobilization, with preference given to projects that mobilize biodiversity data relating to protected areas, threatened species and invasive alien species.
 6. Level of national support and cost-effectiveness of the proposed actions; the balance between the level of funding requested from BID and the cofunding contributed by the project partners.
 7. Anticipated value of the project deliverables to both the national context and the broader GBIF community.
-10. Choice and diversity of project partners, with preference given to projects that have the confirmed involvement of a diverse network of data holders and data users.
+8. Choice and diversity of project partners, with preference given to projects that have the confirmed involvement of a diverse network of data holders and data users.
 
-**NOTE**: Full proposals will also assess 
+**NOTE**: Full proposals will also assess: 
 
 + Project management skills of coordinating team based on previous experience
 + Quality of project design and risk assessment
@@ -95,9 +98,7 @@ Grantees must complete all project activities by 31 December 2018.
 
 ## Funding
 
-Up to €40,000 per national grant. During the course of the BID programme, the maximum total project funding that any single applicant can receive is €60,000.
-
-**NOTE**: The total maximum amount of funding that any single institution may receive from the BID programme is €60,000.
+Up to €40,000 per national grant. **The total maximum amount of funding that any single institution may receive during the whole BID programme is €60,000.**
 
 -----------
 
@@ -135,7 +136,9 @@ National grants should include at least one activity contributing to the followi
 
 + **Ensure that your project meets the eligibility criteria and aligns well with the overall objectives for the programme**. Consider the evaluation criteria used by the evaluation panel to assess your proposal.
 + **Be brief**. Try to provide the shortest responses possible and only add background information if really needed, using links to external resources rather than long explanations.
-+ **Prepare your submissions in English**. The evaluation panel will use English as their working language and therefore applicants are requested to make submissions in English. 
++ **Prepare your submissions in English**. The evaluation panel will use English as their working language and therefore applicants are requested to make submissions in English. Remember that if you have particular difficulties with this requirement, contact [BID@gbif.org](mailto:BID@gbif.org) for support as early as possible, and **before 27 March 2017**.
++ **Review the FAQ**. [This page](../faq) will be updated throughout the project application period. Send any unanswered questions to [BID@gbif.org](mailto:BID@gbif.org). 
++ **Submit as early as possible to avoid problems**. Early submission will give a chance for some follow-up to resolve any issues that arise ahead of the deadline. The deadline for submissions is a hard deadline, and projects received late or incomplete will not be reviewed by the evaluation panel.
 
 -----------
 

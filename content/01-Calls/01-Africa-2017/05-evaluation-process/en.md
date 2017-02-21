@@ -1,6 +1,6 @@
 ---
-title: Proposal evaluation and selection process
-description: Learn more about how the GBIF Secretariat and BID evaluation panel will review and select projects
+title: Evaluation process
+description: Learn more about how the GBIF Secretariat and BID evaluation panel will review proposals and select projects.
 category: Calls
 subCategory: Africa 2017
 ---

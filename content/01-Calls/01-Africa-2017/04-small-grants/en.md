@@ -1,6 +1,6 @@
 ---
 title: Small grants
-description: National grants under the BID programme seek to establish or strengthen national biodiversity information facilities and to increase the biodiversity data available about the country to respond to national priorities.
+description: Small grants under the BID programme seek to mobilize biodiversity data relevant for biodiversity conservation priorities.
 category: Calls
 subCategory: Africa 2017
 ---
@@ -12,15 +12,23 @@ _**Reminder for existing BID grant recipients**: The maximum amount that any sin
 
 Small grants under the BID programme seek to mobilize biodiversity data relevant for biodiversity conservation priorities.
 
+These guidelines are available in English, Portuguese and French; the English version is the authoritative version. They accompany the BID [call for proposals](http://www.gbif.org/newsroom/news/bid-africa-call-for-proposals-2017) and [concept note template](/raw/BID-Concept-Note-Template-Africa-2017.docx). General questions may be sent to [BID@gbif.org](mailto:BID@gbif.org).
+
+<!-- toc -->
+<!-- tocstop -->
+
 -----------------------
 
 ## Submission procedure
 
-The deadline for submitting initial concept notes from sub-Saharan Africa was 20 November 2015. GBIF and the BID evaluation panel have provided feedback and recommendations to applicants invited to prepare full proposals.
+The deadline for submitting initial concept notes from Sub Saharan Africa is **9 April 2017**.
 
-**Applications must be submitted in English and by using the appropriate template**.
++ Applications must be submitted using the [provided concept note template](/raw/BID-Concept-Note-Template-Africa-2017.docx) to [BID@gbif.org](mailto:BID@gbif.org) **by 9 April 2017**, midnight CET / 2300 UTC/GMT.
++ Confirmed project partners must be copied when submitting the application. 
++ As appropriate, include a statement of endorsement from a GBIF representative in submissions as an email attachment. 
++ **Applications must be submitted in English and by using the appropriate template**. If you need help with this requirement, please contact [BID@gbif.org](mailto:BID@gbif.org) as early as possible and before **27 March 2017**.
 
-Applications received late or incomplete will not be reviewed by the evaluation panel. 
+Please note that the evaluation panel will not review late or incomplete applications.
 
 -----------------------
 
@@ -38,10 +46,7 @@ The overall BID programme targets two key outcomes:
 
 ## Key documents
 
-+ [Proposal template](http://www.gbif.org/sites/default/files/gbif_project/files/BID-Small-Grant-Template_0.doc)
-+ [First Call For Proposals](http://www.gbif.org/sites/default/files/gbif_project/files/BID%20Call%20For%20Proposals%20Africa.pdf)
-+ [First Call for Proposals - Annex A](http://www.gbif.org/sites/default/files/gbif_project/files/BID-call-for-proposals-Annex-A.pdf) 
-+ [Africa Rising declaration](http://www.gbif.org/sites/default/files/gbif_event/files/AfricaRising-Declaration-EN.pdf)
++ [Concept note template](/raw/BID-Concept-Note-Template-Africa-2017.docx)
  
 -----------------------
 
@@ -51,7 +56,7 @@ Proposals will be assessed using the following criteria:
 
 1. Alignment of the project with BID objectives and priorities.
 2. Alignment of the project with clearly stated needs for biodiversity information and capacity development within the proposal.
-3. The project’s complementary contributions to regional data needs, including those stated in the [Africa Rising declaration and action plan](http://www.gbif.org/sites/default/files/gbif_event/files/AfricaRising-Declaration-EN.pdf).
+3. The project’s complementary contributions to regional data needs.
 4. Demonstrated success and past experience delivering similar projects.
 5. Likelihood that the project will provide examples of best practice in the application of biodiversity information in decision-making.
 6. Quantity, quality and relevance of the biodiversity data proposed for mobilization, with preference given to projects that mobilize biodiversity data relating to protected areas, threatened species and invasive alien species.
@@ -64,13 +69,17 @@ Proposals will be assessed using the following criteria:
 
 ## Project duration
 
-Selected projects may begin their activities in June 2016, with project activity continuing for up to one year, and with a final six-month reporting and evaluation period (ending December 2017). All projects must end by 31 December 2017.
+Selected projects may begin their activities on 1 October 2017
+
+Projects may run for up to **fifteen (15) months** and must end by 31 December 2018, followed by a final three-month reporting and evaluation period ending 31 March 2019. 
+
+Grantees must complete all project activities by 31 December 2018.
  
 -----------------------
 
 ## Funding
 
-Up to €5,000 per small grant. During the course of the BID programme, the maximum total project funding that any single applicant can receive is €60,000.
+Up to €20,000 per small grant. **The total maximum amount of funding that any single institution may receive during the whole BID programme is €60,000.**
  
  
 ### Small grant activity types
@@ -91,6 +100,17 @@ There are two categories of eligible activity types for small grants, each prese
 + Hosting workshops on data analysis techniques
 + Applying biodiversity data in decision-making processes
 + Documenting use cases and sharing them with partners in the region  
+
+-----------
+
+## General recommendations for preparing concept notes
+
++ **Ensure that your project meets the eligibility criteria and aligns well with the overall objectives for the programme**. Consider the evaluation criteria used by the evaluation panel to assess your proposal.
++ **Be brief**. Try to provide the shortest responses possible and only add background information if really needed, using links to external resources rather than long explanations.
++ **Prepare your submissions in English**. The evaluation panel will use English as their working language and therefore applicants are requested to make submissions in English. Remember that if you have particular difficulties with this requirement, contact [BID@gbif.org](mailto:BID@gbif.org) for support as early as possible, and **before 27 March 2017**.
++ **Review the FAQ**. [This page](../faq) will be updated throughout the project application period. Send any unanswered questions to [BID@gbif.org](mailto:BID@gbif.org). 
++ **Submit as early as possible to avoid problems**. Early submission will give a chance for some follow-up to resolve any issues that arise ahead of the deadline. The deadline for submissions is a hard deadline, and projects received late or incomplete will not be reviewed by the evaluation panel.
+
 
 ----------
 
