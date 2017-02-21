@@ -8,7 +8,6 @@ description: Institutions from the following countries are eligible to apply for
 # Countries eligible for the 2017 call for proposals from Sub-Saharan Africa
 
 
-
 ## Countries eligible for the 2017 call for proposals from Sub-Saharan Africa
 
 + [Sub-Saharan African ACP countries](#africa)

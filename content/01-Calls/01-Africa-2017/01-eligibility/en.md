@@ -6,7 +6,7 @@ subCategory: Africa 2017
 ---
 # Eligibility
 
-_**Reminder for existing BID grant recipients**: The maximum amount that any single applicant may receive from the BID programme is €60,000. The combined total received by any applicant under all rounds of BID calls cannot exceed this limit._
+> **Reminder for existing BID grant recipients**: The maximum amount that any single applicant may receive from the BID programme is €60,000. The combined total received by any applicant under all rounds of BID calls cannot exceed this limit.
 
 In addition to meeting role-dependent location requirements in an [eligible country](../eligible-countries), organizations seeking funding through the BID programme must meet both general and grant-specific eligibility requirements outlined below. 
 

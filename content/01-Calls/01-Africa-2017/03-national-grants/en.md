@@ -11,7 +11,7 @@ imageLink: https://www.flickr.com/photos/attawayjl/
 
 _Sub-Saharan Africa, 2017_
 
-_**Reminder for existing BID grant recipients**: The maximum amount that any single applicant may receive from the BID programme is €60,000. The combined total received by any applicant under all rounds of BID calls cannot exceed this limit._
+> **Reminder for existing BID grant recipients**: The maximum amount that any single applicant may receive from the BID programme is €60,000. The combined total received by any applicant under all rounds of BID calls cannot exceed this limit.
 
 National grants under the BID programme seek to establish or strengthen national biodiversity information facilities and to increase the biodiversity data available about the country to respond to national priorities.
 
@@ -39,7 +39,7 @@ The deadline for submitting initial concept notes from Sub Saharan Africa is **9
 + Applications must be submitted using the [provided concept note template](/raw/BID-Concept-Note-Template-Africa-2017.docx) to [BID@gbif.org](mailto:BID@gbif.org) **by 9 April 2017**, midnight CET / 2300 UTC/GMT.
 + Confirmed project partners must be copied when submitting the application. 
 + As appropriate, include a statement of endorsement from a GBIF representative in submissions as an email attachment. 
-+ **Applications must be submitted in English and by using the appropriate template**. If you need help with this requirement, please contact [BID@gbif.org](mailto:BID@gbif.org) as early as possible and before **27 March 2017**.
++ **Applications must be submitted in English and by using the [provided template](/raw/BID-Concept-Note-Template-Africa-2017.docx)**. If you need help with this requirement, please contact [BID@gbif.org](mailto:BID@gbif.org) as early as possible and before **27 March 2017**.
 
 Please note that the evaluation panel will not review late or incomplete applications.
 

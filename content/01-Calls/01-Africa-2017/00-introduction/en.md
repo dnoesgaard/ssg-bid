@@ -12,7 +12,7 @@ imageLink: https://flic.kr/p/ixNaSz
 
 _Sub-Saharan Africa, 2017_
 
-_**Reminder for existing BID grant recipients**: The maximum amount that any single applicant may receive from the BID programme is €60,000. The combined total received by any applicant under all rounds of BID calls cannot exceed this limit._
+> **Reminder for existing BID grant recipients**: The maximum amount that any single applicant may receive from the BID programme is €60,000. The combined total received by any applicant under all rounds of BID calls cannot exceed this limit.
 
 GBIF invites the submission of concept notes for project funding from sub-Saharan Africa through [Biodiversity Information for Development (BID)](http://www.gbif.org/bid), a programme funded by the [European Union](http://europa.eu). The deadline for submissions is **9 April 2017**, midnight CET / 2300 UTC/GMT. 
 

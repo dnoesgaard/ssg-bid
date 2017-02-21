@@ -8,7 +8,7 @@ subCategory: Africa 2017
 
 _Sub-Saharan Africa, 2017_
 
-_**Reminder for existing BID grant recipients**: The maximum amount that any single applicant may receive from the BID programme is €60,000. The combined total received by any applicant under all rounds of BID calls cannot exceed this limit._
+> **Reminder for existing BID grant recipients**: The maximum amount that any single applicant may receive from the BID programme is €60,000. The combined total received by any applicant under all rounds of BID calls cannot exceed this limit.
 
 Small grants under the BID programme seek to mobilize biodiversity data relevant for biodiversity conservation priorities.
 
@@ -26,7 +26,7 @@ The deadline for submitting initial concept notes from Sub Saharan Africa is **9
 + Applications must be submitted using the [provided concept note template](/raw/BID-Concept-Note-Template-Africa-2017.docx) to [BID@gbif.org](mailto:BID@gbif.org) **by 9 April 2017**, midnight CET / 2300 UTC/GMT.
 + Confirmed project partners must be copied when submitting the application. 
 + As appropriate, include a statement of endorsement from a GBIF representative in submissions as an email attachment. 
-+ **Applications must be submitted in English and by using the appropriate template**. If you need help with this requirement, please contact [BID@gbif.org](mailto:BID@gbif.org) as early as possible and before **27 March 2017**.
++ **Applications must be submitted in English and by using the [provided template**](/raw/BID-Concept-Note-Template-Africa-2017.docx). If you need help with this requirement, please contact [BID@gbif.org](mailto:BID@gbif.org) as early as possible and before **27 March 2017**.
 
 Please note that the evaluation panel will not review late or incomplete applications.
 
@@ -57,13 +57,18 @@ Proposals will be assessed using the following criteria:
 1. Alignment of the project with BID objectives and priorities.
 2. Alignment of the project with clearly stated needs for biodiversity information and capacity development within the proposal.
 3. The project’s complementary contributions to regional data needs.
-4. Demonstrated success and past experience delivering similar projects.
-5. Likelihood that the project will provide examples of best practice in the application of biodiversity information in decision-making.
-6. Quantity, quality and relevance of the biodiversity data proposed for mobilization, with preference given to projects that mobilize biodiversity data relating to protected areas, threatened species and invasive alien species.
-7. Strength of the plans to develop capacity that will contribute to the sustainability of the actions.
-8. Level of institutional support and cost effectiveness of the proposed actions; the balance between the level of funding requested from BID and the cofunding contributed by the partners.
-9. Anticipated value of the project deliverables to both the national context and the broader GBIF community.
-10. Quality of project design and risk assessment; monitoring and evaluation plans will be assessed in the full proposals
+4. Likelihood that the project will provide examples of best practice in the application of biodiversity information in decision-making.
+5. Quantity, quality and relevance of the biodiversity data proposed for mobilization, with preference given to projects that mobilize biodiversity data relating to protected areas, threatened species and invasive alien species.
+6. Level of institutional support and cost effectiveness of the proposed actions; the balance between the level of funding requested from BID and the cofunding contributed by the partners.
+7. Anticipated value of the project deliverables to both the national context and the broader GBIF community.
+8. Quality of project design and risk assessment; monitoring and evaluation plans will be assessed in the full proposals.
+
+**NOTE**: Full proposals will also assess: 
+
++ Project management skills of coordinating team based on previous experience
++ Quality of project design and risk assessment
++ Monitoring and evaluation plans
++ Sustainability plan
 
 -----------------------
 
