@@ -102,7 +102,7 @@ Up to €40,000 per national grant. **The total maximum amount of funding that a
 
 -----------
 
-### National grant activity types
+## National grant activity types
 
 National grants should include at least one activity contributing to the following component categories. GBIF highly encourages the prioritization of activities that mobilize biodiversity data. Each category below includes a non-exclusive list of possible types of activity. It is important that activities are implemented within the 15-month project period.
 

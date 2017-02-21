@@ -75,14 +75,13 @@ Projects may run for up to **fifteen (15) months** and must end by 31 December 2
 
 Grantees must complete all project activities by 31 December 2018.
  
------------------------
-
 ## Funding
 
 Up to €20,000 per small grant. **The total maximum amount of funding that any single institution may receive during the whole BID programme is €60,000.**
  
- 
-### Small grant activity types
+-----------------------
+
+## Small grant activity types
 
 There are two categories of eligible activity types for small grants, each presented with a non-exclusive list of the types of possible types of activity. Small grants must include activities in the first category and may also include activities in the second category.
 

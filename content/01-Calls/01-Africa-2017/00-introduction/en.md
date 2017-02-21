@@ -4,7 +4,7 @@ category: Calls
 subCategory: Africa 2017
 description: A second and final call for proposals from sub-Saharan Africa will take place in 2017.
 image: /images/picasso-bug-Sphaerocoris-annulus-Roberts.jpg
-imageTitle: Picasso bug (*Sphaerocoris annulus*). Used by permission &copy; 2013 Jeremy Roberts.
+imageTitle: Picasso bug (*Sphaerocoris annulus*). Used by permission © 2013 Jeremy Roberts.
 imageLink: https://flic.kr/p/ixNaSz
 
 ---
