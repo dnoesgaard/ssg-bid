@@ -1,5 +1,5 @@
 ---
-title: Subventions régionales
+title: Petites subventions
 category: Appels
 subCategory: Afrique 2017
 description: Petites subventions dans le programme BID cherchent à accroître les données sur la biodiversité pour répondre aux priorités en matière de conservation.
