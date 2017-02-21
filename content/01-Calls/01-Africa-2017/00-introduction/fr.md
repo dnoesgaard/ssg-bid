@@ -2,7 +2,7 @@
 title: Introduction
 category: Appels
 subCategory: Afrique 2017
-description: GBIF lance un appel à proposition de financement de projets pour les pays ACP de l'Afrique subsaharienne dans le cadre du programme BID : l’Information sur la Biodiversité pour le Développement.
+description: "GBIF lance un appel à proposition de financement de projets pour les pays ACP de l'Afrique subsaharienne dans le cadre du programme BID : l’Information sur la Biodiversité pour le Développement."
 
 ---
 # Appel à propositions
