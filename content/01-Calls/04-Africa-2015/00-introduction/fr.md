@@ -11,7 +11,7 @@ imageLink: https://en.wikipedia.org/wiki/File:Wbeest_Mara.jpg
 
 _Afrique subsaharienne, 2015_
 
-** NOTE: Cet appel est maintenant terminé [voir projets sélectionnés](http://www.gbif.org/programme/bid/all-projects) (en anglais)** 
+** NOTE: Cet appel est maintenant terminé. [Voir projets sélectionnés](http://www.gbif.org/programme/bid/all-projects) (en anglais)** 
 
 La date limite pour la soumission de notes conceptuelles d'Afrique subsaharienne était le 20 novembre 2015. Le GBIF et la commission d'évaluation ont invité un certain nombre de candidats à soumettre des propositions complètes en Février 2016 et attendent d'annoncer la sélection des projets en Avril 2016.
 

@@ -11,7 +11,7 @@ imageLink: https://en.wikipedia.org/wiki/File:Wbeest_Mara.jpg
 
 _África subsariana, 2015_
 
-**NOTA: A convite aberto para propostas está agora fechada | [Ver projectos seleccionados](http://www.gbif.org/programme/bid/all-projects) (em inglês)** 
+> **NOTA: A convite aberto para propostas está agora fechada | [Ver projectos seleccionados](http://www.gbif.org/programme/bid/all-projects) (em inglês)** 
 
 O prazo para a apresentação de propostas de África subsariana foi de 20 novembro de 2015. GBIF irá anunciar projectos seleccionados em abril 2016.
 

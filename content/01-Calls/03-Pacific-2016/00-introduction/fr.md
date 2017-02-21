@@ -12,6 +12,8 @@ imageLink: "https://flic.kr/p/8UiAH2"
 
 _Pacifique, 2016_
 
+> **NOTE**: Cet appel est maintenant terminé. [Voir projets sélectionnés](http://www.gbif.org/programme/bid/all-projects) (en anglais) 
+
 Le GBIF, le Système Mondial d’Information sur la Biodiversité, lance un appel à proposition de financement de projets pour les pays ACP des Pacifique dans le cadre du programme BID : l’Information sur la Biodiversité pour le Développement.  Le montant total potentiel de cet appel est de € 500.000.
 
 ## Types de subventions
