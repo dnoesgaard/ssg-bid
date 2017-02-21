@@ -6,14 +6,14 @@ subCategory: Afrique 2017
 ---
 # Éligibilité
 
-Les organisations qui cherchent un financement par le biais du programme BID doivent répondre aux critères généraux d'eligibilité et aux critères spécifiques aux subventions ci-dessous. 
+Les organisations qui cherchent un financement par le biais du programme BID doivent répondre aux critères généraux d'éligibilité et aux critères spécifiques aux subventions ci-dessous. 
 
 <!-- toc -->
 <!-- tocstop -->
 
 -----------------------
 
-## Critères généraux d'eligibilité
+## Critères généraux d'éligibilité
 
 Toutes les demandes de subvention BID doivent être conformes aux critères généraux d'éligibilité suivants :
 
@@ -24,19 +24,19 @@ Toutes les demandes de subvention BID doivent être conformes aux critères gén
 5. Toutes les activités subventionnées par BID doivent être à but non lucratif. Les fonds du programme BID peuvent être utilisés pour subventionner les heures de travail du personnel, les frais de déplacement et les frais liés à l’organisation de réunions et d’ateliers, et un montant limité de frais d’équipement et de services informatiques.
 6. Les subventions BID ne peuvent pas être utilisées pour couvrir des frais généraux.
 7. Les candidats doivent s'engager à un cofinancement (en nature ou en espèces) de leurs projets et indiquer les détails de ce cofinancement dans leur note conceptuelle et leur proposition complète. Le cofinancement fait référence aux coûts réels encourus par les candidats lors de l'exécution des activités du projet subventionné. Il peut s'agir d'apports en nature qui contribuent directement aux activités du projet (tels que les salaires du personnel, les frais de déplacement, etc.) ou toute contribution en espèces aux activités BID provenant d'autres sources de financement.
-8. Toutes les activités proposées du projet doivent être programmées pendant la période de mise en oeuvre définie pour chaque type de subvention.
+8. Toutes les activités proposées du projet doivent être programmées pendant la période de mise en œuvre définie pour chaque type de subvention.
 9. Tout candidat doit fournir un plan garantissant la durabilité des activités au-delà de la période de soutien du programme BID.
 10. Toutes les données mobilisées grâce aux subventions BID, ainsi que tout autre produit de ces projets tels que le matériel de formation, doivent être mis à disposition sous [licence CC-BY ou CC0](http://www.gbif.org/newsroom/news/data-licensing-and-endorsement) (en anglais).
 
 -----------------------
 
-## Critères d'eligibilité des subventions nationales
+## Critères d'éligibilité des subventions nationales
 
 En plus de se conformer aux critères généraux d'éligibilité au-dessus, les demandes de subventions nationales pour la mobilisation de données sur la biodiversité doivent être conformes aux critères suivants :
 1. Tous les projets doivent comprendre au moins une activité qui contribue à chacune des trois catégories suivantes :
 + Renforcement des capacités du système national d'information sur la biodiversité
 + Activités permettant de mobiliser les données sur la biodiversité
-+ Intégration des informations sur la biodiversité dans les processus politiques et de prise de décisio
++ Intégration des informations sur la biodiversité dans les processus politiques et de prise de décision
 2. Les demandes doivent être envoyées par le coordinateur de projet qui coordonnera les activités du projet au nom de ses partenaires de projet. Le coordinateur de projet doit être une entité juridique résidant dans un [pays ACP éligible de l'Afrique subsaharienne](../eligible-countries). Il sera aussi responsable de la gestion de la subvention et de l'élaboration de rapports sur le projet.
 3. Les partenaires de projet doivent comprendre au moins deux instituts nationaux, agences ou organisations non gouvernementales appropriés.
 4. Les projets doivent inviter les utilisateurs de données sur la biodiversité, tels que des scientifiques, des dirigeants et des décideurs, à devenir partenaires du projet. Ceux-ci doivent être des entités juridiques résidant dans un [pays ACP éligible de l'Afrique subsaharienne](../eligible-countries).
@@ -46,7 +46,7 @@ En plus de se conformer aux critères généraux d'éligibilité au-dessus, les 
 
 -----------------------
 
-## Critères d'eligibilité des petites subventions
+## Critères d'éligibilité des petites subventions
 
 En plus de se conformer aux critères généraux d'éligibilité au-dessus, les demandes de petites subventions pour la mobilisation de données sur la biodiversité doivent être conformes aux critères suivants :
 1. Tous les projets doivent inclure des activités qui contribuent à la première catégorie de composants et peuvent également inclure des activités qui contribuent à la deuxième catégorie de composants:

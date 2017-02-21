@@ -11,30 +11,30 @@ imageLink: https://www.flickr.com/photos/attawayjl/
 
 _Afrique subsaharienne, 2017_
 
-> **Reminder for existing BID grant recipients**: The maximum amount that any single applicant may receive from the BID programme is €60,000. The combined total received by any applicant under all rounds of BID calls cannot exceed this limit.
+> **Rappel pour les bénéficiaires des subventions BID** : le montant maximal pouvant être perçu par chaque porteur de projet est de 60 000€. Le montant total combiné reçu par chaque porteur de projet, toutes phases BID confondues, ne peut pas excéder cette limite.
 
 Subventions nationales pour la mobilisation de données sur la biodiversité qui visent à établir ou renforcer un système national d'information sur la biodiversité , à accroître le nombre de données disponibles sur la biodiversité d’un pays et utiliser les données sur la biodiversité pour répondre aux priorités nationales. 
 
-These guidelines are available in English, Portuguese and French; the English version is the authoritative version. They accompany the BID [call for proposals](http://www.gbif.org/newsroom/news/bid-africa-call-for-proposals-2017) and [concept note template](/raw/BID-Concept-Note-Template-Africa-2017.docx). General questions may be sent to [BID@gbif.org](mailto:BID@gbif.org).
+Ces recommandations sont disponibles en anglais, portugais et français ; la version anglaise est la version faisant autorité. Elles accompagnent [l’appel à projets](http://www.gbif.org/newsroom/news/bid-africa-call-for-proposals-2017) et [le fichier vierge de note conceptuelle BID](/raw/BID-Concept-Note-Template-Africa-2017.docx). Les questions générales doivent être envoyées à l’adresse [BID@gbif.org](mailto:BID@gbif.org).
 
 <!-- toc -->
 <!-- tocstop -->
 
 -----------
 
-## Biodiversity information facilities
+## Systèmes d’information sur la biodiversité
 
-Many different stakeholder groups in a given country or organization may be involved in collecting, organizing and using data on biodiversity. These different groups often do not fully benefit from one another’s efforts, either failing to discover all existing information or duplicating effort by spending time on the same tasks. 
+Différents groupes d’acteurs de la biodiversité d’un pays ou organisation donnés peuvent être impliqués dans la collecte, l’organisation et l’utilisation de données sur la biodiversité. Souvent, ces différents groups ne mutualisent pas leurs efforts, ce qui peut entraîner des lacunes d’informations ou de la duplication d’efforts en passant du temps sur les mêmes tâches.  
 
-Within the GBIF network, the group that coordinates national activities with the goal of ensuring effective cooperation and combination of resources and information is a ‘biodiversity information facility’. Using tools and techniques developed and applied by formal GBIF members, these groups sustain key relationships and common solutions for managing and accessing data.
+Au sein du réseau GBIF, le groupe qui coordonne les activités nationales avec l’objectif d’assurer une cooperation efficace et une mise en commun des ressources et informations est un “Système d’information sur la biodiversité”. En utilisant des outils et techniques développés et mis en place par les membres du GBIF, ces groupes assurent un rôle-clé et proposent des solutions applicables par tous pour gérer et rendre accessibles les données. 
 
-GBIF exists to support its member states and organizations—or, more formally, its Participants—to establish these networks. By signing the GBIF [Memorandum of Understanding](http://www.gbif.org/resource/80661), GBIF Participants commit to set up a Participant node that coordinates a biodiversity information facility. More information on biodiversity information facilities is available in the guide, [*Establishing an Effective GBIF Participant Node*](http://www.gbif.org/resource/80925) (which also available in [French](http://www.gbif.org/resource/82147), [Portuguese](http://www.gbif.org/resource/82231) and [Spanish](http://www.gbif.org/resource/82186).
+Le GBIF existe pour soutenir ses états et organisations membres – ou, plus formellement, ses Participants – afin de mettre en place ces réseaux. En signant le [Memorandum of Understanding](http://www.gbif.org/resource/80661) du GBIF, les Participants au GBIF s’engagent à mettre en place un point nodal Participant qui coordonne un système d’information sur la biodiversité. Plus d’informations sur les systèmes d’information sur la biodiversité sont disponibles dans le guide, [*Mise en place d’un point nodal efficace*](http://www.gbif.org/resource/82147) (qui est aussi disponible en [anglais](http://www.gbif.org/resource/80925), [portugais](http://www.gbif.org/resource/82231) et [espagnol](http://www.gbif.org/resource/82186).
 
 -----------
 
 ## Procédure de soumission
 
-La date limite pour les propositions d'Afrique subsaharienne est de 9 Avril 2017. Le GBIF et le commission d'évaluation ont fourni des commentaires et des recommandations aux candidats invités à préparer des propositions complètes. 
+La date limite pour les propositions d'Afrique subsaharienne est de 9 Avril 2017. Le GBIF et la commission d'évaluation fourniront des commentaires et des recommandations aux candidats invités à préparer des propositions complètes. 
 
 Les demandes doivent être envoyées en anglais [en utilisant le modèle correspondant](/raw/BID-Concept-Note-Template-Africa-2017.docx). 
 
@@ -51,8 +51,8 @@ Les objectifs spécifiques des subventions nationales pour la mobilisation de do
 
 Le programme BID vise deux résultats principaux :
 
-1. Une capacité accrue pour la mobilisation et l'utilisation efficaces des informations sur la biodiversité
-2. Une disponibilité accrue des ressources d'information et des guides des meilleures pratiques pour la mobilisation et l'utilisation de l'information sur la biodiversité afin de répondre aux besoins des principaux enjeux politiques
+1. Une capacité accrue pour la mobilisation et l'utilisation efficace des informations sur la biodiversité
+2. Une disponibilité accrue des ressources d'information et des guides de bonnes pratiques pour la mobilisation et l'utilisation de l'information sur la biodiversité afin de répondre aux besoins des principaux enjeux politiques
 
 -----------
 
@@ -75,28 +75,27 @@ Les propositions seront évaluées selon les critères suivants :
 7. Valeur anticipée des éléments livrables du projet sur le plan national et pour l'ensemble de la communauté GBIF.
 10. Choix et diversité des partenaires de projet, avec une préférence accordée aux projets qui démontrent la contribution confirmée d'un réseau diversifié de détenteurs et d'utilisateurs de données.
 
-**NOTE**: Full proposals will also assess: 
-
-+ Project management skills of coordinating team based on previous experience
-+ Quality of project design and risk assessment
-+ Monitoring and evaluation plans
-+ Sustainability plan
+**NOTE** : Les propositions completes permettront aussi d’évaluer :
++ Les capacités de gestion de projet de l’équipe coordinatrice sur la base d’expériences précédentes
++ La qualité de la conception du projet et de l’évaluation des risques
++ La planification du suivi et de l’évaluation
++ La planification de la durabilité du projet 
 
 -----------
 
 ## Durée du projet
 
-Selected projects may begin their activities on 1 October 2017
+Les projets sélectionnés pourront commencer leurs activités le 1er octobre 2017.
 
-Projects may run for up to **fifteen (15) months** and must end by 31 December 2018, followed by a final three-month reporting and evaluation period ending 31 March 2019. 
+Les projets peuvent durer jusqu’à **quinze (15) mois** et doivent se terminer au 31 décembre 2018, suivis d’une période de 3 mois pour la rédaction des rapports et d’une période d’évaluation se terminant le 31 mars 2019. 
 
-Grantees must complete all project activities by 31 December 2018.
+Les bénéficiaires des financements doivent compléter toutes les activités liées au projet d’ici le 31 décembre 2018.
 
 -----------
 
 ## Montant de subvention disponsible
 
-Jusqu'à 40 000 € par subvention nationale. **The total maximum amount of funding that any single institution may receive during the whole BID programme is €60,000.**
+Jusqu'à 40 000 € par subvention nationale. **Le montant total maximal de financements qu’une institution peut recevoir Durant l’ensemble du programme BID est de 60 000€.**
 
 -----------
 
@@ -122,7 +121,7 @@ Les subventions nationales doivent comprendre au moins une activité qui contrib
 
 3. Intégration des informations sur la biodiversité dans les processus politiques et de prise de décision :
 + Sondages ou ateliers permettant de comprendre les exigences en matière de données sur la biodiversité pour les cas d'utilisation spécifiques.
-+ Mise en place de groupes d'utilisateurs pour orienter la mise en oeuvre des projets sur des sujets prioritaires identifiés, tels que l'agrobiodiversité, la biodiversité urbaine et les zones protégées.
++ Mise en place de groupes d'utilisateurs pour orienter la mise en œuvre des projets sur des sujets prioritaires identifiés, tels que l'agrobiodiversité, la biodiversité urbaine et les zones protégées.
 + Organisation d'ateliers et d'actions de sensibilisation pour promouvoir l'utilisation des données en libre accès, par exemple, dans les rapports sur la biodiversité à l'échelle nationale.
 + Organisation d'ateliers sur les techniques d'analyse de données.
 + Utilisation des données sur la biodiversité dans les processus de prise de décision.
@@ -130,13 +129,13 @@ Les subventions nationales doivent comprendre au moins une activité qui contrib
 
 -----------
 
-## General recommendations for preparing concept notes
+## Recommandations générales pour la rédaction des notes conceptuelles
 
-+ **Ensure that your project meets the eligibility criteria and aligns well with the overall objectives for the programme**. Consider the evaluation criteria used by the evaluation panel to assess your proposal.
-+ **Be brief**. Try to provide the shortest responses possible and only add background information if really needed, using links to external resources rather than long explanations.
-+ **Prepare your submissions in English**. The evaluation panel will use English as their working language and therefore applicants are requested to make submissions in English. Remember that if you have particular difficulties with this requirement, contact [BID@gbif.org](mailto:BID@gbif.org) for support as early as possible, and **before 27 March 2017**.
-+ **Review the FAQ**. [This page](../faq) will be updated throughout the project application period. Send any unanswered questions to [BID@gbif.org](mailto:BID@gbif.org). 
-+ **Submit as early as possible to avoid problems**. Early submission will give a chance for some follow-up to resolve any issues that arise ahead of the deadline. The deadline for submissions is a hard deadline, and projects received late or incomplete will not be reviewed by the evaluation panel.
++ **S’assurer que le projet correspond à tous les critères d’éligibilité et aux objectifs généraux du programme**. Prenez en compte les critères d’évaluation utilisés par la commission d’évaluation pour évaluer votre proposition. 
++ **Soyez concis**. Essayez de fournir les réponses les plus courtes possible et n’ajoutez des informations secondaires que si nécessaire, en utilisant de préférence des liens vers des ressources extérieures plutôt que de longues explications.
++ **Préparez vos soumissions en anglais**. La commission d’évaluation utilisera l’anglais comme langue de communication, les porteurs de projets devront donc utiliser l’anglais pour leurs propositions. Si vous avez des difficultés avec cette contrainte de langue, contactez [BID@gbif.org](mailto:BID@gbif.org) le plus tôt possible (**avant le 27 mars 2017**).
++ **Lisez la FAQ**. [Cette page](../faq) sera mise à jour durant la période de soumission de projets. Envoyez toute question non abordée dans la FAQ à l’adresse [BID@gbif.org](mailto:BID@gbif.org).
++ **Envoyez vos propositions le plus tôt possible pour éviter des soucis**. Une soumission en avance vous donnera l’occasion de résoudre tout problème qui pourrait se présenter avant la date limite. La date limite de soumission de projet n’est pas extensible, et les projets reçus en retard ou incomplets ne seront pas pris en compte par la commission d’évaluation.
 
 ------
 
