@@ -8,6 +8,8 @@ subCategory: Africa 2017
 
 _Sub-Saharan Africa, 2017_
 
+_**Reminder for existing BID grant recipients**: The maximum amount that any single applicant may receive from the BID programme is €60,000. The combined total received by any applicant under all rounds of BID calls cannot exceed this limit._
+
 Small grants under the BID programme seek to mobilize biodiversity data relevant for biodiversity conservation priorities.
 
 -----------------------

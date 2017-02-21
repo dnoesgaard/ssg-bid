@@ -11,18 +11,34 @@ imageLink: https://www.flickr.com/photos/attawayjl/
 
 _Sub-Saharan Africa, 2017_
 
+_**Reminder for existing BID grant recipients**: The maximum amount that any single applicant may receive from the BID programme is €60,000. The combined total received by any applicant under all rounds of BID calls cannot exceed this limit._
 
 National grants under the BID programme seek to establish or strengthen national biodiversity information facilities and to increase the biodiversity data available about the country to respond to national priorities.
+
+These guidelines are available in English, Portuguese and French; the English version is the authoritative version. They accompany the BID call for proposals document and concept note template. General questions may be sent to [BID@gbif.org](mailto:BID@gbif.org).
+
+-----------
+
+## Biodiversity information facilities
+
+Many different stakeholder groups in a given country or organization may be involved in collecting, organizing and using data on biodiversity. These different groups often do not fully benefit from one another’s efforts, either failing to discover all existing information or duplicating effort by spending time on the same tasks. 
+
+Within the GBIF network, the group that coordinates national activities with the goal of ensuring effective cooperation and combination of resources and information is a ‘biodiversity information facility’. Using tools and techniques developed and applied by formal GBIF members, these groups sustain key relationships and common solutions for managing and accessing data.
+
+GBIF exists to support its member states and organizations—or, more formally, its Participants—to establish these networks. By signing the GBIF [Memorandum of Understanding](), GBIF Participants commit to set up a Participant node that coordinates a biodiversity information facility. More information on biodiversity information facilities is available in the guide, [*Establishing an Effective GBIF Participant Node*]() (which also available in [French](), [Portuguese]() and [Spanish]().
 
 -----------
 
 ## Submission procedure
 
-The deadline for submitting initial concept notes from sub-Saharan Africa was 20 November 2015. GBIF and the BID evaluation panel have provided feedback and recommendations to applicants invited to prepare full proposals.
+The deadline for submitting initial concept notes from Sub Saharan Africa is **9 April 2017**.
 
-**Applications must be submitted in English and by using the appropriate template**.
++ Applications must be submitted using the appropriate concept note template to [BID@gbif.org](mailto:BID@gbif.org) **by 9 April 2017**, midnight CET / 2300 UTC/GMT.
++ Confirmed project partners must be copied when submitting the application. 
++ As appropriate, include a statement of endorsement from a GBIF representative in submissions as an email attachment. 
++ **Applications must be submitted in English and by using the appropriate template**. If you need help with this requirement, please contact [BID@gbif.org](mailto:BID@gbif.org) as early as possible and before **27 March 2017**.
 
-Applications received late or incomplete will not be reviewed by the evaluation panel.
+Please note that the evaluation panel will not be reviewing late or incomplete applications.
 
 -----------
 
@@ -41,47 +57,56 @@ The overall BID programme targets two key outcomes:
 
 ## Key documents
 
-+ [Proposal template](http://www.gbif.org/sites/default/files/gbif_project/files/BID-National-Grant-Template.doc)
-+ [First Call For Proposals](http://www.gbif.org/sites/default/files/gbif_project/files/BID%20Call%20For%20Proposals%20Africa.pdf)
-+ [First Call for Proposals - Annex A](http://www.gbif.org/sites/default/files/gbif_project/files/BID-call-for-proposals-Annex-A.pdf) 
-+ [Africa Rising declaration](http://www.gbif.org/sites/default/files/gbif_event/files/AfricaRising-Declaration-EN.pdf)
++ [Concept note template]()
 
 -----------
 
 ## Evaluation criteria
 
-Proposals will be assessed using the following criteria:
+The selection panel will base its assessment of applications on the following criteria:
 
 1. Alignment of the project with BID objectives and priorities.
 2. Alignment of the project with clearly stated needs for biodiversity information and capacity development within the proposal.
-3. The project’s complementary contributions to regional data needs, including those stated in the [Africa Rising declaration and action plan](http://www.gbif.org/sites/default/files/gbif_event/files/AfricaRising-Declaration-EN.pdf).
-4. Demonstrated success and past experience delivering similar projects by the applicants.
-5. Likelihood that the project will provide examples of best practice in the application of biodiversity information in decision-making.
-6. Quantity, quality and relevance of the biodiversity data proposed for mobilization, with preference given to projects that mobilize biodiversity data relating to protected areas, threatened species and invasive alien species.
-7. Strength of the plans to develop and sustain national capacity after the project actions.
-8. Level of national support and cost-effectiveness of the proposed actions; the balance between the level of funding requested from BID and the cofunding contributed by the project partners.
-9. Anticipated value of the project deliverables to both the national context and the broader GBIF community.
+3. The project’s complementary contributions to regional data needs.
+4. Likelihood that the project will provide examples of best practice in the application of biodiversity information in decision-making.
+5. Quantity, quality and relevance of the biodiversity data proposed for mobilization, with preference given to projects that mobilize biodiversity data relating to protected areas, threatened species and invasive alien species.
+6. Level of national support and cost-effectiveness of the proposed actions; the balance between the level of funding requested from BID and the cofunding contributed by the project partners.
+7. Anticipated value of the project deliverables to both the national context and the broader GBIF community.
 10. Choice and diversity of project partners, with preference given to projects that have the confirmed involvement of a diverse network of data holders and data users.
-11. Quality of project design and risk assessment; monitoring and evaluation plans will be assessed in the full proposals.
+
+**NOTE**: Full proposals will also assess 
+
++ Project management skills of coordinating team based on previous experience
++ Quality of project design and risk assessment
++ Monitoring and evaluation plans
++ Sustainability plan
 
 -----------
 
 ## Project duration
 
-Selected projects may begin their activities in June 2016, with project activity continuing for up to two years (ending in June 2018), and with a final six-month reporting and evaluation period (ending in December 2018). All projects must end by 31 December 2018.
+Selected projects may begin their activities on 1 October 2017
+
+Projects may run for up to **fifteen (15) months** and must end by 31 December 2018, followed by a final three-month reporting and evaluation period ending 31 March 2019. 
+
+Grantees must complete all project activities by 31 December 2018.
 
 -----------
 
 ## Funding
 
-Up to €60,000 per national grant. During the course of the BID programme, the maximum total project funding that any single applicant can receive is €60,000.
+Up to €40,000 per national grant. During the course of the BID programme, the maximum total project funding that any single applicant can receive is €60,000.
+
+**NOTE**: The total maximum amount of funding that any single institution may receive from the BID programme is €60,000.
+
+-----------
 
 ### National grant activity types
 
-National grants must include at least one activity contributing to each of three component categories. Each category presented below includes a non-exclusive list of possible types of activity:
+National grants should include at least one activity contributing to the following component categories. GBIF highly encourages the prioritization of activities that mobilize biodiversity data. Each category below includes a non-exclusive list of possible types of activity. It is important that activities are implemented within the 15-month project period.
 
 **1. Capacity enhancement of national biodiversity information facilities**
-+ Assessing biodiversity data holdings and user needs through a survey or study
++ Assessing biodiversity data holdings and user needs (with assessment method description)
 + Developing a strategic plan for the biodiversity information facility
 + Organizing national stakeholders’ workshops to engage the community of biodiversity data holders and users
 + Formalizing partnerships through institutional agreements, data sharing policies and public endorsement of mobilization strategies
@@ -103,6 +128,14 @@ National grants must include at least one activity contributing to each of three
 + Hosting workshops on data analysis techniques.
 + Applying biodiversity data in decision-making processes.
 + Documenting use cases and sharing them with partners in the region.
+
+-----------
+
+## General recommendations for preparing concept notes
+
++ **Ensure that your project meets the eligibility criteria and aligns well with the overall objectives for the programme**. Consider the evaluation criteria used by the evaluation panel to assess your proposal.
++ **Be brief**. Try to provide the shortest responses possible and only add background information if really needed, using links to external resources rather than long explanations.
++ **Prepare your submissions in English**. The evaluation panel will use English as their working language and therefore applicants are requested to make submissions in English. 
 
 -----------
 
