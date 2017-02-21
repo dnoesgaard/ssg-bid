@@ -9,17 +9,19 @@ description: Petites subventions dans le programme BID cherchent à accroître l
 
 _Afrique subsaharienne, 2017_
 
+> **Reminder for existing BID grant recipients**: The maximum amount that any single applicant may receive from the BID programme is €60,000. The combined total received by any applicant under all rounds of BID calls cannot exceed this limit.
+
 Les petites subventions dans le programme BID cherchent à accroître les données sur la biodiversité pour répondre aux priorités en matière de conservation.
+
+These guidelines are available in English, Portuguese and French; the English version is the authoritative version. They accompany the BID [call for proposals](http://www.gbif.org/newsroom/news/bid-africa-call-for-proposals-2017) and [concept note template](/raw/BID-Concept-Note-Template-Africa-2017.docx). General questions may be sent to [BID@gbif.org](mailto:BID@gbif.org).
 
 -----------------------
 
 ## Procédure de soumission
 
-**NOTE: Cet appel à propositions est maintenant terminé** 
+La date limite pour les propositions d'Afrique subsaharienne est de 9 Avril 2017. Le GBIF et le commission d'évaluation ont fourni des commentaires et des recommandations aux candidats invités à préparer des propositions complètes. 
 
-La date limite pour les propositions d'Afrique subsaharienne était de 20 Novembre 2015. Le GBIF et le commission d'évaluation ont fourni des commentaires et des recommandations aux candidats invités à préparer des propositions complètes. 
-
-Les demandes doivent être envoyées en anglais [en utilisant le modèle correspondant](http://www.gbif.org/sites/default/files/gbif_project/files/BID-Small-Grant-Template_0.doc).
+Les demandes doivent être envoyées en anglais [en utilisant le modèle correspondant](/raw/BID-Concept-Note-Template-Africa-2017.docx). 
 
 Veuillez noter que les demandes reçues en retard ou incomplètes ne seront pas prises en compte par la commission d'évaluation.
 
@@ -41,10 +43,7 @@ Le programme BID vise deux résultats principaux :
 
 ## Documents essentiels
 
-+ [BID Regional Grant Proposal template](http://www.gbif.org/sites/default/files/gbif_project/files/BID-Small-Grant-Template_0.doc) (*en anglais*)
-+ [Premier appel 2015 á propositions de projets pour l'Afrique](http://www.gbif.org/sites/default/files/gbif_project/files/Appel_2015_a_propositions_de_projets_pour_l_Afrique_0.pdf)
-+ [Annexe A de le premier appel 2015 á propositions de projets pour l'Afrique](http://www.gbif.org/sites/default/files/gbif_project/files/Annexe_A_de_l_appel-2015_a_propositions_de_projets_pour_l_Afrique_du_programme_BID_0.pdf) 
-+ [« Africa Rising » : Mobilisation des Données de Biodiversité pour un Développement Durable](http://www.gbif.org/sites/default/files/gbif_event/files/AfricaRising-Declaration-FR.pdf)
++ [Concept note template](/raw/BID-Concept-Note-Template-Africa-2017.docx) (*en anglais*)
 
 -----------------------
 
@@ -54,26 +53,35 @@ Les propositions seront évaluées selon les critères suivants :
 
 1. Alignement du projet sur les objectifs et priorités de BID.
 2. Alignement du projet sur les besoins clairement exprimés dans la proposition en matière d'informations et de renforcement des capacités de biodiversité.
-3. Contributions supplémentaires du projet aux besoins régionaux en données, y compris ceux définis dans la [déclaration et le plan d'action d' « Africa Rising »](http://www.gbif.org/sites/default/files/gbif_event/files/AfricaRising-Declaration-FR.pdf).
-4. Succès et expérience avérés dans l'exécution de projets similaires.
-5. Capacité du projet à servir d'exemple en matière de meilleures pratiques dans l'utilisation des informations sur la biodiversité pour la prise de décision.
-6. Quantité, qualité et pertinence des données sur la biodiversité proposées pour la mobilisation, avec une préférence accordée aux projets qui mobilisent des données sur la biodiversité liées aux zones protégées, aux espèces menacées et aux espèces exotiques envahissantes.
-7. Solidité des plans de renforcement des capacités qui contribueront à la durabilité des actions du projet.
-8. Niveau de soutien institutionnel et rapport coût-efficacité des actions proposées ; équilibre entre le niveau de subvention demandé à BID et le cofinancement par les partenaires.
-9. Valeur anticipée des éléments livrables du projet sur le plan national et pour l'ensemble de la communauté GBIF.
-10. Qualité de la conception du projet et de l'évaluation des risques. Les plans de suivi et d'évaluation seront évalués dans les propositions complètes.
+3. Contributions supplémentaires du projet aux besoins régionaux en données.
+4. Capacité du projet à servir d'exemple en matière de meilleures pratiques dans l'utilisation des informations sur la biodiversité pour la prise de décision.
+5. Quantité, qualité et pertinence des données sur la biodiversité proposées pour la mobilisation, avec une préférence accordée aux projets qui mobilisent des données sur la biodiversité liées aux zones protégées, aux espèces menacées et aux espèces exotiques envahissantes.
+6. Niveau de soutien institutionnel et rapport coût-efficacité des actions proposées ; équilibre entre le niveau de subvention demandé à BID et le cofinancement par les partenaires.
+7. Valeur anticipée des éléments livrables du projet sur le plan national et pour l'ensemble de la communauté GBIF.
+8. Qualité de la conception du projet et de l'évaluation des risques. Les plans de suivi et d'évaluation seront évalués dans les propositions complètes.
+
+**NOTE**: Full proposals will also assess: 
+
++ Project management skills of coordinating team based on previous experience
++ Quality of project design and risk assessment
++ Monitoring and evaluation plans
++ Sustainability plan
 
 -----------------------
 
 ## Durée du projet
 
-Les projets sélectionnés pourront amorcer leurs activités en juin 2016 pour une durée maximale d'un an, suivie d'une période de six mois d'élaboration de rapports et d'évaluation (qui s'achèvera en décembre 2017). Tous les projets doivent s'achever d'ici au 31 décembre 2017. 
+Selected projects may begin their activities on 1 October 2017
+
+Projects may run for up to **fifteen (15) months** and must end by 31 December 2018, followed by a final three-month reporting and evaluation period ending 31 March 2019. 
+
+Grantees must complete all project activities by 31 December 2018.
 
 -----------------------
 
 ## Montant de subvention disponsible
 
-Jusqu'à 5 000 € par petite subvention. Au cours du programme BID, chaque candidat peut recevoir un maximum de 60 000 € de financement pour des projets. 
+Jusqu'à 20 000 € par petite subvention. **The total maximum amount of funding that any single institution may receive during the whole BID programme is €60,000.** 
 
 -----------------------
 
@@ -96,6 +104,15 @@ Deux catégories de types d'activités sont éligibles pour les petites subventi
 + Utilisation des données sur la biodiversité dans les processus de prise de décision.
 + Documentation des cas d'utilisation et partage de ces cas avec les partenaires de la région.
 
+-----------
+
+## General recommendations for preparing concept notes
+
++ **Ensure that your project meets the eligibility criteria and aligns well with the overall objectives for the programme**. Consider the evaluation criteria used by the evaluation panel to assess your proposal.
++ **Be brief**. Try to provide the shortest responses possible and only add background information if really needed, using links to external resources rather than long explanations.
++ **Prepare your submissions in English**. The evaluation panel will use English as their working language and therefore applicants are requested to make submissions in English. Remember that if you have particular difficulties with this requirement, contact [BID@gbif.org](mailto:BID@gbif.org) for support as early as possible, and **before 27 March 2017**.
++ **Review the FAQ**. [This page](../faq) will be updated throughout the project application period. Send any unanswered questions to [BID@gbif.org](mailto:BID@gbif.org). 
++ **Submit as early as possible to avoid problems**. Early submission will give a chance for some follow-up to resolve any issues that arise ahead of the deadline. The deadline for submissions is a hard deadline, and projects received late or incomplete will not be reviewed by the evaluation panel.
 
 ------
 
