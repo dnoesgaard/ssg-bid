@@ -137,6 +137,10 @@ Les subventions nationales doivent comprendre au moins une activité qui contrib
 + **Lisez la FAQ**. [Cette page](../faq) sera mise à jour durant la période de soumission de projets. Envoyez toute question non abordée dans la FAQ à l’adresse [BID@gbif.org](mailto:BID@gbif.org).
 + **Envoyez vos propositions le plus tôt possible pour éviter des soucis**. Une soumission en avance vous donnera l’occasion de résoudre tout problème qui pourrait se présenter avant la date limite. La date limite de soumission de projet n’est pas extensible, et les projets reçus en retard ou incomplets ne seront pas pris en compte par la commission d’évaluation.
 
+-----------------
+
+Nos remerciements à Sophie Pamerlon, [GBIF France](http://www.gbif.fr), et Pierre Radji, [GBIF Togo](http://www.gbif.org/country/TG/participation), pour le soutien de la traduction.
+
 ------
 
 ```styledYaml

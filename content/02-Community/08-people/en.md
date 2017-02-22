@@ -82,10 +82,10 @@ Those interested in joining the current mentors can review the [official call fo
 
 |*Name* | *Areas of expertise* |
 |--|--|
-|[Alberto González-Talaván](mailto:atalavan@gbif.org) | Training |
-|[Mélianie Raymond](mailto:mraymond@gbif.org) | Capacity enhancement |
+|[Aisha Lolila Jensen](mailto:aljensen@gbif.org) | Capacity enhancement |
 |[Siro Masinde](mailto:smasinde@gbif.org) | Data mobilization |
 |[Maheva Bagard Laursen](mailto:mblaursen@gbif.org) | Grant administration |
+|[Susanne Sheldon](mailto:slsheldon@gbif.org) | Contracts administration |
 |[Tim Hirsch](mailto:thirsch@gbif.org) | Intergovernmental affairs |
 |[Daniel Noesgaard](mailto:dnoesgaard@gbif.org) | Communications |
 |[Kyle Copas](mailto:kcopas@gbif.org) | Communications |

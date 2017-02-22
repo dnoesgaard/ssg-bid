@@ -28,6 +28,10 @@ Les propositions de projets seront évaluées par une commission d'évaluation c
 
 -----------------
 
+Nos remerciements à Sophie Pamerlon, [GBIF France](http://www.gbif.fr), et Pierre Radji, [GBIF Togo](http://www.gbif.org/country/TG/participation), pour le soutien de la traduction.
+
+-----------------
+
 ```styledYaml
 templates:
 - path: signup/signup_fr.html

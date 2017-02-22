@@ -57,6 +57,10 @@ En plus de se conformer aux critères généraux d'éligibilité au-dessus, les 
 4. Tous les projets doivent comprendre un important élément de mobilisation de données via le réseau GBIF. La plus grande partie de la subvention BID doit être utilisée pour la mobilisation des données. À titre indicatif pour les petites subventions, le montant du financement BID dépensé dans des activités de mobilisation des données ne doit pas être inférieur à 60 % de la subvention totale.
 5. Les subventions BID peuvent être utilisées pour le financement de jusqu’à 50 % des coûts des services ou achats informatiques, pour un montant maximum de 1000 € de n'importe quelle petite subvention. Il sera nécessaire de fournir des justificatifs de ces dépenses dans les rapports financiers.
 
+-----------------
+
+Nos remerciements à Sophie Pamerlon, [GBIF France](http://www.gbif.fr), et Pierre Radji, [GBIF Togo](http://www.gbif.org/country/TG/participation), pour le soutien de la traduction.
+
 ---------
 ```styledYaml
 templates:
