@@ -3,6 +3,9 @@ title: Introduction
 category: Appels
 subCategory: Afrique 2017
 description: "GBIF lance un appel à proposition de financement de projets pour les pays ACP de l'Afrique subsaharienne dans le cadre du programme BID : l’Information sur la Biodiversité pour le Développement."
+image: /images/picasso-bug-Sphaerocoris-annulus-Roberts.jpg
+imageTitle: Picasso bug (*Sphaerocoris annulus*). Used by permission © 2013 Jeremy Roberts.
+imageLink: https://flic.kr/p/ixNaSz
 
 ---
 # Appel à propositions
