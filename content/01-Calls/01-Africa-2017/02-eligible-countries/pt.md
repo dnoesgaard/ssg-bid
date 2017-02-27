@@ -7,6 +7,8 @@ description: Instituições dos seguintes países são elegíveis para solicitar
 
 # Nações elegíveis para o convite à apresentação de propostas da África Subsaariana 2017 
 
+_África subahaariana, 2017_
+
 ## Nações "ACP" da África Subsaariana
 
 Instituições dos seguintes países ACP em África são elegíveis para solicitar fundos do programa BID, desde que preencham outros [requisitos](../eligibility).
