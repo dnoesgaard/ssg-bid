@@ -31,7 +31,7 @@ Instituições dos seguintes países ACP em África são elegíveis para solicit
 + Gabão
 + [Gana](http://www.gbif.org/country/GH/participation)
 + Guiné Equatorial
-+ [Guiné-Conakri](http://www.gbif.org/country/GN/participation)
++ [Guiné-Conacri](http://www.gbif.org/country/GN/participation)
 + Guiné-Bissau
 + Jibouti
 + Lesoto
@@ -60,7 +60,7 @@ Instituições dos seguintes países ACP em África são elegíveis para solicit
 + [Togo](http://www.gbif.org/country/TG/participation)
 + [Uganda](http://www.gbif.org/country/UG/participation)
 + Zâmbia
-+ Zimbabúe
++ Zimbabué
 
 --------
 
