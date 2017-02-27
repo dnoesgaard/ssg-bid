@@ -1,20 +1,20 @@
 ---
-title: Nações elegível
+title: Nações elegíveis
 category: Convites
 subCategory: África 2017
-description: Instituições dos seguintes países são elegíveis para solicitar fundos ou participar em funções específicas sob a 2017 convite à apresentação de Áfrique Subsariana, desde que preencham outros requisitos.
+description: Instituições dos seguintes países são elegíveis para solicitar fundos ou participar em funções específicas sob a 2017 convite à apresentação de Áfrique Subsaariana, desde que preencham outros requisitos.
 ---
 
-# Países elegíveis para o 2017 convite à apresentação de Africa Subsariana 
+# Nações elegíveis para o convite à apresentação de propostas da África Subsaariana 2017 
 
-## Nações "ACP" da África Subsariana
+## Nações "ACP" da África Subsaariana
 
 Instituições dos seguintes países ACP em África são elegíveis para solicitar fundos do programa BID, desde que preencham outros [requisitos](../eligibility).
 
 + Angola
 + [Benim](http://www.gbif.org/country/BJ/participation)
-+ Botswana
-+ Burkina Faso
++ Botsuana
++ Burquina Faso
 + Burundi
 + Camarões
 + Cabo Verde
@@ -24,19 +24,18 @@ Instituições dos seguintes países ACP em África são elegíveis para solicit
 + [República Democrática do Congo](http://www.gbif.org/country/CD/participation)
 + [República do Congo](http://www.gbif.org/country/CG/participation)
 + Costa do Marfim
-+ Djibouti
-+ Guiné Equatorial
 + Eritreia
 + Etiópia
 + Gabão
 + [Gana](http://www.gbif.org/country/GH/participation)
++ Guiné Equatorial
 + [Guiné-Conakri](http://www.gbif.org/country/GN/participation)
 + Guiné-Bissau
-+ [Quénia](http://www.gbif.org/country/KY/participation)
++ Jibouti
 + Lesoto
 + Libéria
 + [Madagáscar](http://www.gbif.org/country/MG/participation)
-+ [Malawi](http://www.gbif.org/country/MW/participation)
++ [Malaúi](http://www.gbif.org/country/MW/participation)
 + Mali
 + [Mauritânia](http://www.gbif.org/country/MR/participation)
 + Maurícias
@@ -44,6 +43,7 @@ Instituições dos seguintes países ACP em África são elegíveis para solicit
 + Namíbia
 + [Níger](http://www.gbif.org/country/NE/participation)
 + [Nigéria](http://www.gbif.org/country/NG/participation)
++ [Quénia](http://www.gbif.org/country/KY/participation)
 + Ruanda
 + São Tomé e Príncipe
 + Senegal
@@ -58,7 +58,7 @@ Instituições dos seguintes países ACP em África são elegíveis para solicit
 + [Togo](http://www.gbif.org/country/TG/participation)
 + [Uganda](http://www.gbif.org/country/UG/participation)
 + Zâmbia
-+ Zimbabwe
++ Zimbabúe
 
 --------
 
