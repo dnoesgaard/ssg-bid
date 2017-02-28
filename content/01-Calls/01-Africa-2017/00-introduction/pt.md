@@ -10,7 +10,7 @@ imageLink: https://flic.kr/p/ixNaSz
 ---
 # Convite à apresentação de propostas
 
-_África subahaariana, 2017_
+_África Subahaariana, 2017_
 
 > **Lembrete para os atuais beneficiários de subvenções do programa BID**: o valor máximo que qualquer candidato individual pode receber do programa BID é de €60 000. O valor total combinado recebido por qualquer candidato em todas as rondas dos convites à apresentação de propostas do programa BID não pode exceder este limite.
 
@@ -18,7 +18,7 @@ O GBIF incentiva o envio de notas concetuais para o financiamento de projetos da
 
 O potencial financiamento total atribuído a este convite à apresentação de propostas é de €400 000 e os candidatos que forem bem-sucedidos nesta ronda irão receber convites para enviar as propostas completas em maio de 2017.
 
-Este convite à apresentação de propostas, tal como os anteriores, procura apoiar projetos da África Subsariana que irão:
+Este convite à apresentação de propostas, tal como os anteriores, procura apoiar projetos da África Subsaariana que irão:
 + Mobilizar dados de biodiversidade associados a áreas protegidas, espécies ameaçadas e espécies exóticas invasoras.
 + Utilizar e alargar as boas práticas à digitalização de coleções de história natural e mobilização de outros dados de biodiversidade.
 + Aplicar dados de biodiversidade ao apoio na tomada de decisões e investigação.
@@ -33,7 +33,7 @@ O convite à apresentação de propostas oferece apoio para dois tipos de subven
 As [candidaturas serão avaliadas](../evaluation-process) por um painel de peritos internacionais com experiência na região, através de um processo competitivo de duas fases.
 + Os candidatos deverão enviar as **notas concetuais iniciais** através do [modelo facultado](/raw/BID-Concept-Note-Template-Africa-2017.docx) até 9 de abril de 2017.
 + Com base na recomendação do painel, o GBIF convidará um grupo selecionado de candidatos a preparar as **propostas completas** que deverão ser entregues em julho de 2017.
-+ Após a revisão e seleção final efetuadas pelo painel, os **projetos financiados** terão início a outubro de 2017. O GBIF espera anunciar estes projetos publicamente a Novembro de 2017.
++ Após a revisão e seleção final efetuadas pelo painel, os **projetos financiados** terão início a outubro de 2017. O GBIF espera anunciar estes projetos publicamente a novembro de 2017.
 
 
 -----------------

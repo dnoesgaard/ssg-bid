@@ -1,4 +1,4 @@
 ---
-title: África subsahariana, 2017
+title: África Subsahariana, 2017
 type: menu only
 ---
