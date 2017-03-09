@@ -6,7 +6,7 @@ subCategory: África 2017
 ---
 # Elegibilidade
 
-_África Subahaariana, 2017_
+_África Subsahaariana, 2017_
 
 > **Lembrete para os atuais beneficiários de subvenções do programa BID**: o valor máximo que qualquer candidato individual pode receber do programa BID é de €60 000. O valor total combinado recebido por qualquer candidato em todas as rondas dos convites à apresentação de propostas do programa BID não pode exceder este limite.
 

@@ -26,7 +26,7 @@ The deadline for submitting initial concept notes from Sub Saharan Africa is **9
 + Applications must be submitted using the [provided concept note template](/raw/BID-Concept-Note-Template-Africa-2017.docx) to [BID@gbif.org](mailto:BID@gbif.org) **by 9 April 2017**, midnight CET / 2300 UTC/GMT.
 + Confirmed project partners must be copied when submitting the application. 
 + As appropriate, include a statement of endorsement from a GBIF representative in submissions as an email attachment. 
-+ **Applications must be submitted in English and by using the [provided template**](/raw/BID-Concept-Note-Template-Africa-2017.docx). If you need help with this requirement, please contact [BID@gbif.org](mailto:BID@gbif.org) as early as possible and before **27 March 2017**.
++ **Applications must be submitted in English and by using the [provided template](/raw/BID-Concept-Note-Template-Africa-2017.docx)**. If you need help with this requirement, please contact [BID@gbif.org](mailto:BID@gbif.org) as early as possible and before **27 March 2017**.
 
 Please note that the evaluation panel will not review late or incomplete applications.
 
