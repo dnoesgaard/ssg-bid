@@ -25,7 +25,7 @@ Deux catégories de subventions sont concernées par cet appel à propositions :
 
 Les propositions de projets seront évaluées par une commission d'évaluation composée d’experts régionaux et thématiques ainsi que de représentants du bailleur de fonds au cours d'un processus concurrentiel en deux étapes.
 
-+ Les notes conceptuelles initiales doivent être soumises le 9 avril 2017 au plus tard en utilisant [le formulaire fourni à cet effet](../evaluation-process).
++ Les notes conceptuelles initiales doivent être soumises le 9 avril 2017 au plus tard en utilisant [le formulaire fourni à cet effet](/raw/BID-Concept-Note-Template-Africa-2017.docx).
 + Suite aux recommandations de la commission d’évaluation, GBIF invitera un groupe restreint de candidats à soumettre des **propositions complète** pour le début de juillet 2017.
 + Les **projets sélectionnés** pour financement seront choisis au cours d’une évaluation finale par la commission d’évaluation et pourront commencer leurs activités en octobre 2017.
 
