@@ -21,6 +21,14 @@ Where appropriate, the attribution should also be accompanied by the EU flag (se
 
 Materials should also acknowledge both GBIF and the BID programme. Grantees are encouraged to seek help, review and feedback on appropriate approaches and formats by [contacting GBIF Communications staff via email](mailto:communication@gbif.org).
 
+### Requests for funding for project-related visibilty actions 
+
+Limited additional funding is available to support project participants in visibility actions that promote the BID programme's work and value to relevant audiences. Project participants interested in seeking such support should complete the [funding request form](http://bid.gbif.org/raw/funding-application-for-BID-visibility-action.docx). 
+
+Staff from the GBIF Secretariat will review and respond to completed applications as quickly as possible. Project participants should note, however, that no projects are guaranteed to receive support without formal notification from GBIF.
+
++ [Funding request form for BID project-related visibility actions](http://bid.gbif.org/raw/funding-application-for-BID-visibility-action.docx)
+
 ### Communications-related downloads
 + [EU logos](http://bid.gbif.org/raw/eu-flags.zip)
 + [GBIF logos](http://gbif.org/logos)
