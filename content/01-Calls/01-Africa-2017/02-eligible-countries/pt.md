@@ -45,7 +45,7 @@ Instituições dos seguintes países ACP em África são elegíveis para solicit
 + Namíbia
 + [Níger](http://www.gbif.org/country/NE/participation)
 + [Nigéria](http://www.gbif.org/country/NG/participation)
-+ [Quénia](http://www.gbif.org/country/KY/participation)
++ [Quénia](http://www.gbif.org/country/KE/participation)
 + Ruanda
 + São Tomé e Príncipe
 + Senegal
