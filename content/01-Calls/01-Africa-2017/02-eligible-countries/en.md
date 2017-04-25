@@ -32,7 +32,7 @@ Institutions from the following ACP countries in Africa are eligible to apply fo
 + [Ghana](http://www.gbif.org/country/GH/participation)
 + [Guinea](http://www.gbif.org/country/GN/participation)
 + Guinea-Bissau
-+ [Kenya](http://www.gbif.org/country/KY/participation)
++ [Kenya](http://www.gbif.org/country/KE/participation)
 + Lesotho
 + Liberia
 + [Madagascar](http://www.gbif.org/country/MG/participation)
