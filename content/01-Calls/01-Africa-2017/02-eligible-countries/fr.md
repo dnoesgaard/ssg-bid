@@ -29,7 +29,7 @@ Institutions des pays ACP suivants en Afrique sont admissibles à des fonds dans
 + [Guinée](http://www.gbif.org/country/GN/participation)
 + Guinée équatoriale
 + Guinée-Bissau
-+ [Kenya](http://www.gbif.org/country/KY/participation)
++ [Kenya](http://www.gbif.org/country/KE/participation)
 + Lesotho
 + Liberia
 + [Madagascar](http://www.gbif.org/country/MG/participation)
